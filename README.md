@@ -1,6 +1,7 @@
-# medical_app
+# Medical App by Envycode
 
-A new Flutter project.
+A simple project created using flutter with Figma Community Design
+Figma Design: https://www.figma.com/community/file/1095313911626523083
 
 ## Getting Started
 
